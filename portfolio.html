@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yasin Ahmed | Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Inter', sans-serif;
+            background-color: #f9f9f9;
+        }
+
+        .navbar {
+            background-color: #2A0A49;
+            color: white;
+            padding: 1rem;
+            position: relative;
+        }
+        .navbar {
+    background-color: #2A0A49;
+    color: #fff;
+    padding: 0.5rem 1rem; /* Reduced top/bottom padding */
+}
+
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
+
+        .logo {
+            margin: 0;
+            font-size: 1.5rem;
+        }
+
+        .nav-links {
+            list-style: none;
+            display: flex;
+            gap: 1rem;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            color: white;
+            font-weight: 600;
+        }
+
+        .hamburger {
+            display: none;
+            flex-direction: column;
+            cursor: pointer;
+        }
+
+        .hamburger span {
+            background: white;
+            height: 3px;
+            width: 25px;
+            margin: 4px 0;
+        }
+
+        .section h2 {
+            text-align: center;
+            color: #2A0A49;
+            margin-bottom: 2rem;
+        }
+
+        .portfolio-items {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+        }
+
+        .portfolio-card {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            text-align: left;
+        }
+
+        .portfolio-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 8px 24px rgba(42, 10, 73, 0.3);
+        }
+
+        .project-img {
+            width: 100%;
+            height: auto;
+        }
+
+        .portfolio-card h3,
+        .portfolio-card p {
+            padding: 0 1rem;
+        }
+
+        .button-link {
+            display: inline-block;
+            margin: 1rem;
+            padding: 10px 20px;
+            background-color: #2A0A49;
+            color: white;
+            border-radius: 20px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background 0.3s ease;
+        }
+
+        .button-link:hover {
+            background-color: #3d1573;
+        }
+
+        .footer {
+            background-color: #2A0A49;
+            color: white;
+            padding: 2rem 0;
+            margin-top: 2rem;
+        }
+
+        .footer a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .footer a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+                flex-direction: column;
+                background: #2A0A49;
+                position: absolute;
+                top: 60px;
+                right: 1rem;
+                padding: 1rem;
+                border-radius: 10px;
+            }
+
+            .nav-links.show {
+                display: flex;
+            }
+
+            .hamburger {
+                display: flex;
+                position: absolute;
+                right: 1rem;
+                top: 1.2rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header class="navbar">
+        <div class="container">
+            <h1 class="logo">Yasin UX</h1>
+            <nav>
+                <div class="hamburger" aria-label="Toggle navigation" aria-expanded="false">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="portfolio.html">Portfolio</a></li>
+                    <li><a href="certificates.html">Certificates</a></li>
+                    <li><a href="education.html">Education</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="portfolio" class="section">
+        <div class="container">
+            <h2>Portfolio Projects</h2>
+            <div class="portfolio-items">
+                
+                <div class="portfolio-card card-carousel">
+                    <img src="hr6.png" alt="HR Management System" class="project-img">
+                    <h3>HR Management System</h3>
+                    <p>Headed the UX/UI efforts for this HR Management System, ensuring an intuitive and efficient interface.</p>
+                    <a href="https://www.behance.net/gallery/210394099/UXUI-Case-Study-Design-HR-Management-System" target="_blank" class="button-link">Read More</a>
+                </div>
+
+                <div class="portfolio-card card-carousel">
+                    <img src="port5.png" alt="Nebulae Portfolio Website" class="project-img">
+                    <h3>Nebulae Portfolio Website</h3>
+                    <p>Designed and overseen the creation of the Nebulae Portfolio Website, applying user-centric design principles. </p>
+                    <a href="https://www.behance.net/gallery/206746861/UX-UI-case-study-(-Nebulae-portfolio-Website)" target="_blank" class="button-link">Read More</a>
+                </div>
+                <div class="portfolio-card card-carousel">
+                    <img src="edu4.png" alt="Coaching Management System" class="project-img">
+                    <h3>Coaching Management System</h3>
+                    <p>Led the UX/UI design and implementation for this system, contributing to a seamless user experience.</p>
+                    <a href="https://www.behance.net/gallery/192885373/Educonnect-UXUI-Case-Study(Coaching-Management-System)" target="_blank" class="button-link">Read More</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container footer-container">
+            <div class="footer-left">
+                <h3>Yasin UX</h3>
+                <p>UI/UX Designer | UX Researcher | Mentor</p>
+                <p class="footer-location">📍 Dhaka, Bangladesh</p>
+            </div>
+            <div class="footer-right">
+                <ul class="footer-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="portfolio.html">Portfolio</a></li>
+                    <li><a href="certificates.html">Certificates</a></li>
+                    <li><a href="education.html">Education</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+                <div class="social-icons">
+                    <a href="https://www.linkedin.com/in/yasinahmeduiux" target="_blank">LinkedIn</a>
+                    <a href="https://www.behance.net/yasinahmeduiux" target="_blank">Behance</a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 Yasin Ahmed. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const hamburger = document.querySelector('.hamburger');
+            const navLinks = document.querySelector('.nav-links');
+            const navItems = navLinks ? navLinks.querySelectorAll('a') : [];
+
+            if (hamburger && navLinks) {
+                hamburger.addEventListener('click', () => {
+                    const isExpanded = hamburger.getAttribute('aria-expanded') === 'true';
+                    navLinks.classList.toggle('show');
+                    hamburger.setAttribute('aria-expanded', (!isExpanded).toString());
+                });
+            }
+
+            navItems.forEach(link => {
+                link.addEventListener('click', () => {
+                    if (window.innerWidth <= 768 && navLinks && hamburger) {
+                        navLinks.classList.remove('show');
+                        hamburger.setAttribute('aria-expanded', 'false');
+                    }
+                });
+            });
+
+            window.addEventListener('resize', () => {
+                if (window.innerWidth > 768 && navLinks && hamburger) {
+                    navLinks.classList.remove('show');
+                    hamburger.setAttribute('aria-expanded', 'false');
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>

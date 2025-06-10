@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yasin Ahmed | Certificates</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            background-color: #f9f9f9;
+        }
+
+        .navbar {
+            background-color: #2A0A49;
+            color: #fff;
+            padding: 1rem;
+            position: relative;
+        }
+        .navbar {
+    background-color: #2A0A49;
+    color: #fff;
+    padding: 0.5rem 1rem; /* Reduced top/bottom padding */
+}
+
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .nav-links {
+            list-style: none;
+            display: flex;
+            gap: 1rem;
+        }
+
+        .nav-links a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .hamburger {
+            display: none;
+            flex-direction: column;
+            cursor: pointer;
+        }
+
+        .hamburger span {
+            height: 3px;
+            width: 25px;
+            background: white;
+            margin-bottom: 5px;
+            border-radius: 5px;
+        }
+
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+                flex-direction: column;
+                background-color: #2A0A49;
+                position: absolute;
+                top: 60px;
+                right: 10px;
+                padding: 1rem;
+                border-radius: 5px;
+            }
+
+            .nav-links.active {
+                display: flex;
+            }
+
+            .hamburger {
+                display: flex;
+            }
+        }
+
+        h2 {
+            margin-top: 2rem;
+            color: #2A0A49;
+        }
+
+        .certificate-list li {
+            margin-bottom: 10px;
+        }
+
+        .section {
+            padding: 2rem 0;
+        }
+
+        .footer {
+            background-color: #2A0A49;
+            color: white;
+            padding: 2rem 1rem;
+        }
+
+        .footer-links a,
+        .social-icons a {
+            color: white;
+            text-decoration: none;
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .footer-container {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        @media (min-width: 768px) {
+            .footer-container {
+                flex-direction: row;
+                justify-content: space-between;
+            }
+        }
+
+        .card {
+            background: white;
+            border-radius: 16px;
+            padding: 1rem;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            margin-bottom: 1rem;
+        }
+
+        .card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+
+<body>
+    <header class="navbar">
+        <div class="container">
+            <h1 class="logo">Yasin UX</h1>
+            <nav>
+                <div class="hamburger" onclick="toggleMenu()">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="portfolio.html">Portfolio</a></li>
+                    <li><a href="certificates.html">Certificates</a></li>
+                    <li><a href="education.html">Education</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="certificates" class="section">
+        <div class="container">
+            <h2>Certifications</h2>
+            <div class="card">
+                <ul class="certificate-list">
+                    <li>IxDF - Interaction Design Foundation (May 2025)
+                        <ul>
+                            <li>Perception and Memory in HCI and UX</li>
+                            <li>UI Design Patterns for Successful Software</li>
+                            <li>Gestalt Psychology and Web Design</li>
+                            <li>Data-Driven Design: Quantitative Research for UX</li>
+                            <li>Agile Methods for UX Design</li>
+                            <li>UX Research 101</li>
+                        </ul>
+                    </li>
+                    <li>Google Certified UX Course | Coursera - December 2024</li>
+                    <li>Advanced UI/UX Design with LIVE Project | Lead Academy - February 2024</li>
+                    <li>UX Design: 6 Paper Prototyping | LinkedIn - January 2024</li>
+                    <li>UX Foundations: Usability Testing | LinkedIn - January 2024</li>
+                    <li>Design Thinking for UX Design Managers | LinkedIn - December 2023</li>
+                    <li>UX Foundations: Interaction Design | LinkedIn - December 2023</li>
+                    <li>Sketching for UX Designers | LinkedIn - December 2023</li>
+                    <li>UX Research: Journey Mapping | LinkedIn - December 2023</li>
+                    <li>UX Foundations: Style Guides and Design Systems | LinkedIn - December 2023</li>
+                    <li>Agile User Experience Design and Research | LinkedIn - December 2023</li>
+                    <li>Lo-Fi to Hi-Fi: Prototyping in Figma | LinkedIn - December 2023</li>
+                    <li>Designing Accessible Components in Figma | LinkedIn - December 2023</li>
+                    <li>Figma for UX Design | LinkedIn - December 2023</li>
+                    <li>Typography Masterclass | Creative IT Institute - August 2023</li>
+                    <li>UI-UX Program | Ostad - March 2023</li>
+                    <li>Elements Color Theory and Application | Udemy - June 2020</li>
+                    <li>User Experience for Mobile App | University of Leeds - May 2020</li>
+                    <li>Graphics Design | Basis Institute of Technology & Management - November 2017</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container footer-container">
+            <div class="footer-left">
+                <h3>Yasin UX</h3>
+                <p>UI/UX Designer | UX Researcher | Mentor</p>
+                <p class="footer-location">📍 Dhaka, Bangladesh</p>
+            </div>
+            <div class="footer-right">
+                <ul class="footer-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="portfolio.html">Portfolio</a></li>
+                    <li><a href="certificates.html">Certificates</a></li>
+                    <li><a href="education.html">Education</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+                <div class="social-icons">
+                    <a href="https://www.linkedin.com/in/yasinahmeduiux" target="_blank">LinkedIn</a>
+                    <a href="https://www.behance.net/yasinahmeduiux" target="_blank">Behance</a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 Yasin Ahmed. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        function toggleMenu() {
+            const navLinks = document.querySelector('.nav-links');
+            navLinks.classList.toggle('active');
+        }
+    </script>
+</body>
+
+</html>
