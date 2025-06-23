@@ -36,20 +36,23 @@
             </nav>
         </div>
     </header>
-
+    
     <section id="home" class="section home-section">
-        <div class="container profile">
-            <img src="cover1.png" alt="Cover" class="cover-photo">
-            <div class="profile-details">
-                <img src="image1.png" alt="Yasin Ahmed" class="profile-img">
-                <h2>Yasin Ahmed</h2>
-                <p>Creative and results-driven User Experience Designer with 2 years of experience.</p>
-                <p>User Experience Lead at Nebulae-Soft | Certified Google UX Designer | User Research & UCD Expert | User Research & UCD Expert </p>
-                <p>Certified Google UX Designer | Front-End & Interaction Designer | Information Architecture Specialist | Mentor & Team Leader </p>
-                <p class="location">Dhaka, Bangladesh </p>
-            </div>
-        </div>
-    </section>
+  <div class="cover-wrapper">
+    <img src="cover1.png" alt="Cover Photo" class="cover-photo">
+  </div>
+  <div class="container profile">
+    <div class="profile-details">
+      <img src="image1.png" alt="Yasin Ahmed" class="profile-img">
+      <h2>Yasin Ahmed</h2>
+      <p>Creative and results-driven User Experience Designer with 2 years of experience.</p>
+      <p>User Experience Lead at Nebulae-Soft | Certified Google UX Designer | User Research & UCD Expert</p>
+      <p>Certified Google UX Designer | Front-End & Interaction Designer | Information Architecture Specialist | Mentor & Team Leader</p>
+      <p class="location">Dhaka, Bangladesh </p>
+    </div>
+  </div>
+</section>
+
 
     <section id="experience" class="section">
         <div class="container">
@@ -145,6 +148,66 @@
             max-width: 1200px;
             margin: auto;
         }
+        .cover-photo {
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+    object-fit: cover;
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 1rem;
+}
+
+.profile-details {
+    text-align: center;
+    padding: 1rem;
+}
+
+@media (max-width: 768px) {
+    .navbar {
+        padding: 0.5rem 1rem;
+    }
+
+    .logo {
+        font-size: 1.2rem;
+    }
+
+    .nav-links {
+        position: absolute;
+        top: 60px;
+        left: 0;
+        right: 0;
+        background-color: var(--primary-color);
+        flex-direction: column;
+        align-items: center;
+        display: none;
+    }
+
+    .nav-links li {
+        margin: 0.5rem 0;
+    }
+
+    .nav-links.show {
+        display: flex;
+    }
+
+    .hamburger {
+        position: absolute;
+        top: 15px;
+        right: 20px;
+    }
+
+    .container.profile {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
 
         .navbar {
             background-color: var(--primary-color);

@@ -13,6 +13,17 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    <script>
+    const hamburger = document.querySelector('.hamburger');
+    const navLinks = document.querySelector('.nav-links');
+
+    hamburger.addEventListener('click', () => {
+        navLinks.classList.toggle('show');
+    });
+</script>
+
+
+
     // Close menu when a navigation link is clicked (on mobile)
     navItems.forEach(link => {
         link.addEventListener('click', () => {
