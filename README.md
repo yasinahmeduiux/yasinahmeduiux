@@ -1,6 +1,4 @@
-
 # Hi, I'm Yasin Ahmed
-# Project Manager 
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tamimhossain031&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
