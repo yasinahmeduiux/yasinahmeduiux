@@ -1,12 +1,12 @@
-<div align="center">
-<h1 align="center">Hi 👋, I'm Yasin Ahmed</h1>
-<h3 align="center">Project Manager | Lead UX Designer | Front End Developer</h3>
+<div align="left">
+<h1 align="left">Hi 👋, I'm Yasin Ahmed</h1>
+<h3 align="left">Project Manager | Lead UX Designer | Front End Developer</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=yasinahmeduiux&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
+<p align="left">
 Designing Interactive and Intuitive Interfaces & Managing Projects
 </p>
 
@@ -25,26 +25,26 @@ Designing Interactive and Intuitive Interfaces & Managing Projects
 
 📊 Quick Stats
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
-<td align="center"><strong>5+</strong></td>
-<td align="center"><strong>86+</strong></td>
-<td align="center"><strong>72+</strong></td>
-<td align="center"><strong>24+</strong></td>
+<td align="left"><strong>5+</strong></td>
+<td align="left"><strong>86+</strong></td>
+<td align="left"><strong>72+</strong></td>
+<td align="left"><strong>24+</strong></td>
 </tr>
 <tr>
-<td align="center">Years Experience</td>
-<td align="center">Happy Clients</td>
-<td align="center">Projects Completed</td>
-<td align="center">Countries Worldwide</td>
+<td align="left">Years Experience</td>
+<td align="left">Happy Clients</td>
+<td align="left">Projects Completed</td>
+<td align="left">Countries Worldwide</td>
 </tr>
 </table>
 </div>
 
 
 
-<p align="center">
+<p align="left">
 <i>Let's connect and build something amazing together!</i>
 </p>
 
