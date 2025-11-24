@@ -3,17 +3,13 @@
 <h3 align="center">Project Manager | Lead UX Designer | Front End Developer</h3>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D3591F7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DProject%2BManager%2Bat%2BBongo%2BSource%3BEx-Lead%2BUX%2BDesigner%2Bat%2BNebulae%2BSoft%3BPro%2BFigma%2BDesigner%3BFront%2BEnd%2BDeveloper" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=yasinahmeduiux&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
 Designing Interactive and Intuitive Interfaces & Managing Projects
 </p>
 
-<!-- You can replace 'your-username' with your actual GitHub username to get real stats -->
-
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dyasinahmed%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="yasinahmed" />
-</div>
 
 🌟 About Me
 
@@ -63,12 +59,6 @@ Designing Interactive and Intuitive Interfaces & Managing Projects
 
                            
 
-# Hi, I'm Yasin Ahmed
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yasinahmeduiux&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 # 💫 About Me:
 I’m currently working on<br><br>Designing intuitive, high-performance website and mobile interfaces that balance aesthetics with seamless user flows.<br><br>🤝 I’m looking to collaborate on<br><br>Product design projects, UI/UX overhauls, mobile app interfaces, and cross-functional design systems.<br><br>🧩 I’m looking for help with<br><br>Exploring advanced prototyping methods and integrating user-research findings more deeply into large-scale design systems.<br><br>🌱 I’m currently learning<br><br>Cutting-edge interaction design patterns, motion design for mobile experiences, and improved accessibility practices.<br><br>💬 Ask me about<br><br>Front-end design for websites and mobile apps, UI/UX strategy, user-centered workflows, design leadership, and Figma best practices.<br><br>⚡ Fun fact<br><br>I’ve been designing in Figma for over 7 years, and I still discover new features that speed up my workflow every month!
