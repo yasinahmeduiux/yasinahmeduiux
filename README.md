@@ -1,17 +1,18 @@
-#Hi,
-                                                    #I'm Yasin Ahmed
-                                   
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tamimhossain031&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+                           
 
+# Hi, I'm Yasin Ahmed:
 
 # 💫 About Me:
 I’m currently working on<br><br>Designing intuitive, high-performance website and mobile interfaces that balance aesthetics with seamless user flows.<br><br>🤝 I’m looking to collaborate on<br><br>Product design projects, UI/UX overhauls, mobile app interfaces, and cross-functional design systems.<br><br>🧩 I’m looking for help with<br><br>Exploring advanced prototyping methods and integrating user-research findings more deeply into large-scale design systems.<br><br>🌱 I’m currently learning<br><br>Cutting-edge interaction design patterns, motion design for mobile experiences, and improved accessibility practices.<br><br>💬 Ask me about<br><br>Front-end design for websites and mobile apps, UI/UX strategy, user-centered workflows, design leadership, and Figma best practices.<br><br>⚡ Fun fact<br><br>I’ve been designing in Figma for over 7 years, and I still discover new features that speed up my workflow every month!
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yasinahmeduiux) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yasinahmeduiux) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yasinahmeduiux) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yasinahmeduiux) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasinahmeduiux) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yasinahmeduiux)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yasinahmeduiux) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yasinahmeduiux) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yasinahmeduiux@gmail.com) 
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tamimhossain031&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
