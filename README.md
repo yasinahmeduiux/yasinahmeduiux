@@ -1,3 +1,66 @@
+<div align="center">
+<h1 align="center">Hi 👋, I'm Yasin Ahmed</h1>
+<h3 align="center">Project Manager | Lead UX Designer | Front End Developer</h3>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D3591F7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DProject%2BManager%2Bat%2BBongo%2BSource%3BEx-Lead%2BUX%2BDesigner%2Bat%2BNebulae%2BSoft%3BPro%2BFigma%2BDesigner%3BFront%2BEnd%2BDeveloper" alt="Typing SVG" />
+</p>
+
+<p align="center">
+Designing Interactive and Intuitive Interfaces & Managing Projects
+</p>
+
+<!-- You can replace 'your-username' with your actual GitHub username to get real stats -->
+
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dyasinahmed%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="yasinahmed" />
+</div>
+
+🌟 About Me
+
+🔭 I’m currently working as a Project Manager at Bongo Source.
+
+💼 I previously worked as a Lead User Experience Designer at Nebulae Soft.
+
+🎨 I'm a Pro Figma Designer and I love to design intuitive user interfaces.
+
+💻 I am a passionate Front End Developer creating responsive web applications.
+
+🎯 Goal: To merge aesthetic design with high-performance engineering.
+
+📊 Quick Stats
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><strong>5+</strong></td>
+<td align="center"><strong>86+</strong></td>
+<td align="center"><strong>72+</strong></td>
+<td align="center"><strong>24+</strong></td>
+</tr>
+<tr>
+<td align="center">Years Experience</td>
+<td align="center">Happy Clients</td>
+<td align="center">Projects Completed</td>
+<td align="center">Countries Worldwide</td>
+</tr>
+</table>
+</div>
+
+🛠️ Languages and Tools
+
+<p align="left">
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.google.com/search?q=https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+<p align="center">
+<i>Let's connect and build something amazing together!</i>
+</p>
+
                            
 
 # Hi, I'm Yasin Ahmed
