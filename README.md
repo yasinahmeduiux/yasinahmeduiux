@@ -21,41 +21,18 @@ Designing Interactive and Intuitive Interfaces & Managing Projects
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 🌟 About Me
-
 🔭 I’m currently working as a Project Manager at Bongo Source.
-
 💼 I previously worked as a Lead User Experience Designer at Nebulae Soft.
-
-🎨 I'm a Pro Figma Designer and I love to design intuitive user interfaces.
-
+🎨 I'm a Pro Figma Designer and I love designing intuitive user interfaces.
 💻 I am a passionate Front End Developer creating responsive web applications.
-
 🎯 Goal: To merge aesthetic design with high-performance engineering.
-
 📊 Quick Stats
 
-<div align="left">
-<table>
-<tr>
-<td align="left"><strong>5+</strong></td>
-<td align="left"><strong>86+</strong></td>
-<td align="left"><strong>72+</strong></td>
-<td align="left"><strong>24+</strong></td>
-</tr>
-<tr>
-<td align="left">Years Experience</td>
-<td align="left">Happy Clients</td>
-<td align="left">Projects Completed</td>
-<td align="left">Countries Worldwide</td>
-</tr>
-</table>
+<table> <tr> <td align="center"><strong>5+</strong><br/>Years Experience</td> <td align="center"><strong>86+</strong><br/>Happy Clients</td> <td align="center"><strong>72+</strong><br/>Projects Completed</td> <td align="center"><strong>24+</strong><br/>Countries Worldwide</td> </tr> </table>
+
+<p align="left"> <i>Let's connect and build something amazing together!</i> </p>
+
 </div>
-
-
-
-<p align="left">
-<i>Let's connect and build something amazing together!</i>
-</p>
 
                            
 
