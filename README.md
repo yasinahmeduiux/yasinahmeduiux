@@ -1,6 +1,6 @@
 <div align="left">
 <h1 align="left">Hi 👋, I'm Yasin Ahmed</h1>
-<h3 align="left">Project Manager | Lead UX Designer | Front End Developer</h3>
+<h3 align="left">PProduct Designer | Design System Expert  |  Design Tokens Architecture | End to End Product Designer | Cognitive Designer | Lean UX | UI/UX Instructor</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yasinahmeduiux&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -21,8 +21,8 @@ Designing Interactive and Intuitive Interfaces & Managing Projects
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 🌟 About Me
-🔭 I’m currently working as a Project Manager at Bongo Source.
-💼 I previously worked as a Lead User Experience Designer at Nebulae Soft.
+🔭 I’m currently working as a Product Designer at Grameenphone.
+💼 I previously worked as a Lead Project Manager at Bongo Source.
 🎨 I'm a Pro Figma Designer and I love designing intuitive user interfaces.
 💻 I am a passionate Front End Developer creating responsive web applications.
 🎯 Goal: To merge aesthetic design with high-performance engineering.
