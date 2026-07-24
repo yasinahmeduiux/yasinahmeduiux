@@ -1,63 +1,139 @@
 <div align="left">
-<h1 align="left">Hi 👋, I'm Yasin Ahmed</h1>
-<h3 align="left">Product Designer | Design System Expert  |  Design Tokens Architecture | End to End Product Designer | Cognitive Designer | Lean UX | UI/UX Instructor</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yasinahmeduiux&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+# Hi 👋, I'm Yasin Ahmed
+
+### Product Designer • Design System Expert • Design Tokens Architecture • End-to-End Product Designer • Cognitive Designer • Lean UX • UI/UX Instructor
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=yasinahmeduiux&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="left">
-Designing Interactive and Intuitive Interfaces & Managing Projects  
-</p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yasinahmeduiux&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yasinahmeduiux&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinahmeduiux&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Designing Interactive & Intuitive Digital Products while Managing End-to-End Product Development.
 
 ---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yasinahmeduiux&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinahmeduiux&layout=compact&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=yasinahmeduiux&theme=github-dark&hide_border=false"/>
+
+</p>
+
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasinahmeduiux&theme=github-dark"/>
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=yasinahmeduiux&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
-🌟 About Me
-🔭 I’m currently working as a Product Designer at Grameenphone.
-💼 I previously worked as a Lead Project Manager at Bongo Source.
-🎨 I'm a Pro Figma Designer and I love designing intuitive user interfaces.
-💻 I am a passionate Front End Developer creating responsive web applications.
-🎯 Goal: To merge aesthetic design with high-performance engineering.
-📊 Quick Stats
+# 🌟 About Me
 
-<table> <tr> <td align="center"><strong>5+</strong><br/>Years Experience</td> <td align="center"><strong>86+</strong><br/>Happy Clients</td> <td align="center"><strong>72+</strong><br/>Projects Completed</td> <td align="center"><strong>24+</strong><br/>Countries Worldwide</td> </tr> </table>
+🔭 **Current Role:** Product Designer at **Grameenphone**
 
-<p align="left"> <i>Let's connect and build something amazing together!</i> </p>
+💼 **Previous Role:** Lead Project Manager at **Bongo Source**
+
+🎨 Pro Figma Designer passionate about scalable Design Systems
+
+💻 Front-End Developer building responsive web applications
+
+🎯 Mission: Merge beautiful design with high-performance engineering
+
+---
+
+# 📊 Quick Stats
+
+<table>
+<tr>
+
+<td align="center">
+<h2>11+</h2>
+Years Experience
+</td>
+
+<td align="center">
+<h2>86+</h2>
+Happy Clients
+</td>
+
+<td align="center">
+<h2>72+</h2>
+Projects Completed
+</td>
+
+<td align="center">
+<h2>24+</h2>
+Countries Worldwide
+</td>
+
+</tr>
+</table>
+
+<p>
+<i>Let's connect and build something amazing together.</i>
+</p>
 
 </div>
 
-                           
+---
 
+# 🌐 Connect with Me
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yasinahmeduiux) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yasinahmeduiux) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yasinahmeduiux) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yasinahmeduiux) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasinahmeduiux) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yasinahmeduiux)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yasinahmeduiux) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yasinahmeduiux) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yasinahmeduiux@gmail.com) 
-
-
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-
-# 💻 Server stack:
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-
-
-# 💻 Design stack:
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yasinahmeduiux&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yasinahmeduiux&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinahmeduiux&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yasinahmeduiux)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yasinahmeduiux)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/yasinahmeduiux)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/yasinahmeduiux)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasinahmeduiux)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=pinterest&logoColor=white)](https://pinterest.com/yasinahmeduiux)
+[![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/yasinahmeduiux)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@yasinahmeduiux)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yasinahmeduiux@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yasinahmeduiux&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💻 Tech Stack
+
+(Keep your existing Tech Stack exactly as it is.)
+
+---
+
+# ☁️ Server Stack
+
+(Keep your existing Server Stack exactly as it is.)
+
+---
+
+# 🎨 Design Stack
+
+(Keep your existing Design Stack exactly as it is.)
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yasinahmeduiux&theme=algolia&row=1&column=7"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/yasinahmeduiux/yasinahmeduiux/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+⭐️ From **Yasin Ahmed**
